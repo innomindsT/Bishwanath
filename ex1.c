@@ -21,6 +21,6 @@ int main()
 
 OUTPUT 
 
-Value at ptr = 0x7ffd15b5deec 
+Value at ptr = 0x7ffc7e23282c 
 Value at var = 20 
 Value at *ptr = 20 
